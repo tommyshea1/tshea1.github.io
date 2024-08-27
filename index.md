@@ -4,15 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[**Tableau**](./https://public.tableau.com/app/profile/thomas.shea6897/vizzes).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Objective
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Recent graduate currently pursuing a career in IT/Analytics. Began my professional journey with a small, women owned, general contracting company to acquire real world business experience and skills. Enjoy being a liaison between big data to insightful visual takeaways in laymen terms. Seeking to leverage my technical and business experience as a valuable team member in an analytics or IT role.
 
 ## Header 2
 
@@ -105,13 +105,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Thomas Shea</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2000</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Chicago, IL</dd>
 </dl>
 
 ```
