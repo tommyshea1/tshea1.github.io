@@ -3,6 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+This page outlines my projects, interests, and hobbies.
 
 # Objective
 
@@ -49,7 +50,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Personal Projects
+## Personal Projects
 
 | Project Name |     Description         | Language  |
 |:-------------|:------------------------|:----------|
@@ -57,6 +58,23 @@ end
 | MazeSolver   | Maze Generator/Solver   | Python    |
 | BookBot      | Statistical Book Report | Python    |
 | Tableau Vis' | UFC, McDonalds, Winery  | R/Tableau |
+
+### Project Takeaways:
+
+- Asteroids
+  - Explain1
+  - Explain2
+  - Future1
+  - Future2
+- Maze Solver
+  - Explain1
+  - Explain2
+  - Future1
+- BookBot
+  - Explain1
+  - Explain2/Future
+- level 1 item
+  - Future1
 
 ### There's a horizontal rule below this.
 
@@ -75,22 +93,6 @@ end
 1.  Item two
 1.  Item three
 1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
