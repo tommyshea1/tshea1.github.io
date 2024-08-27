@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page outlines my projects, interests, and hobbies.
+This page outlines my current, past projects, and interests.
 
 # Objective
 
@@ -41,11 +41,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Improving Skills:
 
-*   Leetcode
-*   PICOCTF
 *   CodinGame
+*   LeetCode
+*   PICOCTF
 *   DefendTheWeb
 *   Boot.Dev
+
+##### Future Projects - Building a Pokedex
+###### Goals:
+1. Learn how to parse JSON in Go
+2. Practice making HTTP requests in Go
+3. Learn how to build a CLI tool that makes interacting with a back-end server easier
+4. Get hands-on practice with local Go development and tooling
+5. Learn about caching and how to use it to improve performance
 
 ## Showcase: Asteroids
 
@@ -53,20 +61,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 >
 > XXXXXXXXXXXXXXXXXX.
 
-### Header 3
+### Current Project Issue:
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-##### Header 5
+console.log("Hello!");
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+```
 
 ### Small image
 
@@ -88,6 +88,6 @@ var fun = function lang(l) {
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Please reach out to help me improve my page and projects! :D
 ```
 
