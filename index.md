@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 This page outlines my projects, interests, and hobbies.
 
 # Objective
@@ -11,38 +10,7 @@ Recent graduate currently pursuing a career in IT/Analytics. Began my profession
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ## Personal Projects
 
@@ -55,18 +23,18 @@ end
 
 ### Project Takeaways:
 
-- Asteroids
+- Asteroids:
   - Has spaceship movement, flying asteroids, shooting mechanics(projecticle will break apart asteroids)
   - Utilized Python's 'pygame' & 'venv'
     - Plan to implement a score system and power-ups (ex. A condition that will allow fire rate to exceed maximum)
-- Maze Solver
+- Maze Solver:
   - Randomly generates walls, the open paths, a starting point, and an endpoint
   - Deployed a pathfinding algorithm that will also visualy show the solution path
   - Potential implementations include: create a larger/complex maze to solve, having some sort of interactability within the maze game
-- BookBot
+- BookBot:
   - This bot will parse text, do searches on keywords or phrases, and provide a summary based on inputs
   - Plan to incorporate NLP techniques(pre-trained GPT models) for more complex summarizations and comprehension
-- Tableau Vis'
+- Tableau Vis':
   - R-Studio to clean and merge multiple data sets to create visualizations (ex. transactional data 2021-Q1 & 2021-Q2, merge and find cross-selling opportunitites)
 
 * * *
@@ -78,6 +46,27 @@ end
 *   CodinGame
 *   DefendTheWeb
 *   Boot.Dev
+
+## Showcase: Asteroids
+
+> XYZXYZXYZXYZ.
+>
+> XXXXXXXXXXXXXXXXXX.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
 ### Small image
 
