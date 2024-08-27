@@ -38,12 +38,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
 ##### Header 5
 
 1.  This is an ordered list following a header.
@@ -75,11 +69,9 @@ end
 - Tableau Vis'
   - R-Studio to clean and merge multiple data sets to create visualizations (ex. transactional data 2021-Q1 & 2021-Q2, merge and find cross-selling opportunitites)
 
-### There's a horizontal rule below this.
-
 * * *
 
-#### Improving Skills:
+### Improving Skills:
 
 *   Leetcode
 *   PICOCTF
@@ -97,7 +89,6 @@ end
 
 
 ### About me
-
 <dl>
 <dt>Name:</dt>
 <dd>Thomas Shea</dd>
