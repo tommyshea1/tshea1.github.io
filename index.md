@@ -2,15 +2,11 @@
 layout: default
 ---
 
-This page outlines my current, past projects, and interests.
+This page outlines my current & past personal projects.
 
 # Objective
 
 Recent graduate currently pursuing a career in IT/Analytics. Began my professional journey with a small, women owned, general contracting company to acquire real world business experience and skills. Enjoy being a liaison between big data to insightful visual takeaways in laymen terms. Seeking to leverage my technical and business experience as a valuable team member in an analytics or IT role.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Personal Projects
 
@@ -54,19 +50,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 3. Learn how to build a CLI tool that makes interacting with a back-end server easier
 4. Get hands-on practice with local Go development and tooling
 5. Learn about caching and how to use it to improve performance
-
-## Showcase: Asteroids
-
-> XYZXYZXYZXYZ.
-> XYZXYZXYZ
-> XXXXXXXXXXXXXXXXXX.
-
-### Current Project Issue:
-
-```js
-console.log("Hello!");
-
-```
 
 ### Small image
 
