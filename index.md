@@ -58,7 +58,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Showcase: Asteroids
 
 > XYZXYZXYZXYZ.
->
+> XYZXYZXYZ
 > XXXXXXXXXXXXXXXXXX.
 
 ### Current Project Issue:
@@ -90,4 +90,3 @@ console.log("Hello!");
 ```
 Please reach out to help me improve my page and projects! :D
 ```
-
