@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[**Tableau**](./https://public.tableau.com/app/profile/thomas.shea6897/vizzes).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -49,14 +49,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Personal Projects
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Project Name |     Description         | Language  |
+|:-------------|:------------------------|:----------|
+| Asteroids    | Recreated Asteroids     | Python    |
+| MazeSolver   | Maze Generator/Solver   | Python    |
+| BookBot      | Statistical Book Report | Python    |
+| Tableau Vis' | UFC, McDonalds, Winery  | R/Tableau |
 
 ### There's a horizontal rule below this.
 
