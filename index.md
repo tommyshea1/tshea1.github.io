@@ -4,15 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+# Objective
+
+Recent graduate currently pursuing a career in IT/Analytics. Began my professional journey with a small, women owned, general contracting company to acquire real world business experience and skills. Enjoy being a liaison between big data to insightful visual takeaways in laymen terms. Seeking to leverage my technical and business experience as a valuable team member in an analytics or IT role.
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Objective
-
-Recent graduate currently pursuing a career in IT/Analytics. Began my professional journey with a small, women owned, general contracting company to acquire real world business experience and skills. Enjoy being a liaison between big data to insightful visual takeaways in laymen terms. Seeking to leverage my technical and business experience as a valuable team member in an analytics or IT role.
 
 ## Header 2
 
