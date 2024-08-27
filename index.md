@@ -101,14 +101,14 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### About me
 
 <dl>
-<dt>Name</dt>
+<dt>Name:</dt>
 <dd>Thomas Shea</dd>
-<dt>Born</dt>
+<dt>Born:</dt>
 <dd>2000</dd>
-<dt>Birthplace</dt>
+<dt>Birthplace:</dt>
 <dd>Chicago, IL</dd>
 </dl>
 
@@ -116,6 +116,3 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-```
-The final element.
-```
