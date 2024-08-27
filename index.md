@@ -62,37 +62,30 @@ end
 ### Project Takeaways:
 
 - Asteroids
-  - Explain1
-  - Explain2
-  - Future1
-  - Future2
+  - Has spaceship movement, flying asteroids, shooting mechanics(projecticle will break apart asteroids)
+  - Utilized Python's 'pygame' & 'venv'
+    - Plan to implement a score system and power-ups (ex. A condition that will allow fire rate to exceed maximum)
 - Maze Solver
-  - Explain1
-  - Explain2
-  - Future1
+  - Randomly generates walls, the open paths, a starting point, and an endpoint
+  - Deployed a pathfinding algorithm that will also visualy show the solution path
+  - Potential implementations include: create a larger/complex maze to solve, having some sort of interactability within the maze game
 - BookBot
-  - Explain1
-  - Explain2/Future
-- level 1 item
-  - Future1
+  - This bot will parse text, do searches on keywords or phrases, and provide a summary based on inputs
+  - Plan to incorporate NLP techniques(pre-trained GPT models) for more complex summarizations and comprehension
+- Tableau Vis'
+  - R-Studio to clean and merge multiple data sets to create visualizations (ex. transactional data 2021-Q1 & 2021-Q2, merge and find cross-selling opportunitites)
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+#### Improving Skills:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+*   Leetcode
+*   PICOCTF
+*   CodinGame
+*   DefendTheWeb
+*   Boot.Dev
 
 ### Small image
 
